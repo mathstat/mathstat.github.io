@@ -1,17 +1,20 @@
 ---
 layout: post
 published: true
-description: ""
+description: start jekyll github prose.io
 headline: ""
 modified: ""
-categories: null
-tags: ""
+categories: 
+  - interesting
+  - Blog
+tags: blog
 imagefeature: ""
 mathjax: false
 featured: false
 comments: false
 title: Get started to blog with github + prose.io + jekyll
 ---
+
 
 ## Resources
 
