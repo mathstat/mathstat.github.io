@@ -41,7 +41,7 @@ links:
 # For prose.io editor
 prose:
   rooturl: '_posts'
-  siteurl: '#'
+  #siteurl: '#'
   #relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'assets/img'
   metadata:
@@ -69,7 +69,7 @@ prose:
       - name: "headline"
         field:
           element: "text"
-          label: "beadline"
+          label: "headline"
           placeholder: "Enter Post Headline"
       - name: "modified"
         field:
@@ -124,6 +124,6 @@ prose:
 
 # exclude my node related stuff
 #exclude: ['package.json', 'src', 'node_modules']
-include: [".htaccess"]
+#include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", 'src']
 
