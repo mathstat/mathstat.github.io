@@ -40,8 +40,8 @@ links:
 
 # For prose.io editor
 prose:
-  rooturl: '_posts'
-  #siteurl: '#'
+  rooturl: '_posts' # comment this to let prose.io see all files instead of just '_post/' folder
+  #siteurl: '#' # uncomment this will make the prose.io 'Preview' function broken
   #relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'assets/img'
   metadata:
